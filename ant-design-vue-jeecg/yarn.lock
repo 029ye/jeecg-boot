@@ -871,10 +871,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@jeecg/antd-online-mini@2.2.12":
-  version "2.2.12"
-  resolved "https://registry.npmjs.org/@jeecg/antd-online-mini/-/antd-online-mini-2.2.12.tgz#11d4251ab1abdd2221a744f8311d4080cf6add99"
-  integrity sha512-EU6/1pWy7iDwOt9n9Jy1gK1fziurdAx2ERabkg7QLXgiiwYhRwOgTlMxERo8bNCFdjXPR/k1Gja3+92EjzwczQ==
+"@jeecg/antd-online-mini@2.3.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@jeecg/antd-online-mini/-/antd-online-mini-2.3.0.tgz#26a62946f6ea4bed4867932a32b331fd1b140b73"
+  integrity sha512-0yvBOGaVyDsOkfmJza+L2skBKglehAdscb4YOL10Ey6vKaUl9+Z6bWehF9GmqDV81cBWP3f8X2hSnvTO0D9S8w==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -3265,15 +3265,10 @@ code-point-at@^1.0.0:
   resolved "https://registry.npmjs.org/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
   integrity sha1-DQcLTQQ6W+ozovGkDi7bPZpMz3c=
 
-codemirror@^5.46.0:
-  version "5.52.0"
-  resolved "https://registry.npmjs.org/codemirror/-/codemirror-5.52.0.tgz#4dbd6aef7f0e63db826b9a23922f0c03ac75c0a7"
-  integrity sha512-K2UB6zjscrfME03HeRe/IuOmCeqNpw7PLKGHThYpLbZEuKf+ZoujJPhxZN4hHJS1O7QyzEsV7JJZGxuQWVaFCg==
-
-codemirror@^5.48.4:
-  version "5.55.0"
-  resolved "https://registry.npmjs.org/codemirror/-/codemirror-5.55.0.tgz#23731f641288f202a6858fdc878f3149e0e04363"
-  integrity sha512-TumikSANlwiGkdF/Blnu/rqovZ0Y3Jh8yy9TqrPbSM0xxSucq3RgnpVDQ+mD9q6JERJEIT2FMuF/fBGfkhIR/g==
+codemirror@^5.48.4, codemirror@^5.58.2:
+  version "5.58.2"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.58.2.tgz#ed54a1796de1498688bea1cdd4e9eeb187565d1b"
+  integrity sha512-K/hOh24cCwRutd1Mk3uLtjWzNISOkm4fvXiMO7LucCrqbh6aJDdtqUziim3MZUI6wOY0rvY1SlL1Ork01uMy6w==
 
 collection-visit@^1.0.0:
   version "1.0.0"
